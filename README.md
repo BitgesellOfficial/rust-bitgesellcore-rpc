@@ -1,7 +1,7 @@
 [![Status](https://travis-ci.org/rust-bitcoin/rust-bitcoincore-rpc.png?branch=master)](https://travis-ci.org/rust-bitcoin/rust-bitcoincore-rpc)
 
 # Rust RPC client for Bitcoin Core JSON-RPC 
-<img src="doc/img/Icon.png" style="height: 60px;"/>
+<img src="doc/img/Bitgesell.png" style="height: 60px;"/>
 
 This is a Rust RPC client library for calling the Bitgesell Core JSON-RPC API. It provides a layer of abstraction over 
 [rust-jsonrpc](https://github.com/apoelstra/rust-jsonrpc) and makes it easier to talk to the Bitgesell JSON-RPC interface 
