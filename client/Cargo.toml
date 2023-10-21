@@ -1,10 +1,11 @@
 [package]
 name = "bitgesell-rpc"
-version = "0.17.0"
+version = "0.1.0"
 authors = [
     "Steven Roose <steven@stevenroose.org>",
     "Jean Pierre Dudey <jeandudey@hotmail.com>",
     "Dawid Ciężarkiewicz <dpc@dpc.pw>",
+    "Naftali Murgor <nmurgor10@gmail.com>",
 ]
 license = "CC0-1.0"
 homepage = "https://github.com/rust-bitcoin/rust-bitcoincore-rpc/"

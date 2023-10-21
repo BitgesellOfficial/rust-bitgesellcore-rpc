@@ -1,10 +1,12 @@
 [package]
-name = "bitcoincore-rpc-json"
+name = "bitgesellcore-rpc-json"
 version = "0.17.0"
 authors = [
     "Steven Roose <steven@stevenroose.org>",
     "Jean Pierre Dudey <jeandudey@hotmail.com>",
-    "Dawid Ciężarkiewicz <dpc@dpc.pw>"
+    "Dawid Ciężarkiewicz <dpc@dpc.pw>",
+    "Naftali Murgor <nmurgor10@gmail.com>",
+
 ]
 license = "CC0-1.0"
 homepage = "https://github.com/rust-bitcoin/rust-bitcoincore-rpc/"
@@ -15,7 +17,7 @@ readme = "README.md"
 edition = "2018"
 
 [lib]
-name = "bitcoincore_rpc_json"
+name = "bitgesellcore_rpc_json"
 path = "src/lib.rs"
 
 [dependencies]
