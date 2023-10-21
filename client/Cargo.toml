@@ -1,5 +1,5 @@
 [package]
-name = "bitgesell-rpc"
+name = "bitgesellcore-rpc"
 version = "0.1.0"
 authors = [
     "Steven Roose <steven@stevenroose.org>",
@@ -16,7 +16,7 @@ readme = "README.md"
 edition = "2018"
 
 [lib]
-name = "bitgesell_rpc"
+name = "bitgesellcore_rpc"
 path = "src/lib.rs"
 
 [dependencies]
