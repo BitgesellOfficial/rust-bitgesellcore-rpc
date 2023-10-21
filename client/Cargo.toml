@@ -1,5 +1,5 @@
 [package]
-name = "bitcoincore-rpc"
+name = "bitgesell-rpc"
 version = "0.17.0"
 authors = [
     "Steven Roose <steven@stevenroose.org>",
@@ -10,12 +10,12 @@ license = "CC0-1.0"
 homepage = "https://github.com/rust-bitcoin/rust-bitcoincore-rpc/"
 repository = "https://github.com/rust-bitcoin/rust-bitcoincore-rpc/"
 description = "RPC client library for the Bitcoin Core JSON-RPC API."
-keywords = ["crypto", "bitcoin", "bitcoin-core", "rpc"]
+keywords = ["crypto", "bitcoin", "bitcoin-core", "rpc", "bitgesell"]
 readme = "README.md"
 edition = "2018"
 
 [lib]
-name = "bitcoincore_rpc"
+name = "bitgesell_rpc"
 path = "src/lib.rs"
 
 [dependencies]
