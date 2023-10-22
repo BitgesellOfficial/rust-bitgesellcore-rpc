@@ -8,9 +8,9 @@ authors = [
     "Naftali Murgor <nmurgor10@gmail.com>",
 ]
 license = "CC0-1.0"
-homepage = "https://github.com/rust-bitcoin/rust-bitcoincore-rpc/"
-repository = "https://github.com/rust-bitcoin/rust-bitcoincore-rpc/"
-description = "RPC client library for the Bitcoin Core JSON-RPC API."
+homepage = "https://github.com/naftalimurgor/rust-bitgesellcore-rpc/"
+repository = "https://github.com/naftalimurgor/rust-bitgesellcore-rpc/"
+description = "RPC client library for the Bitgesell Core JSON-RPC API."
 keywords = ["crypto", "bitcoin", "bitcoin-core", "rpc", "bitgesell"]
 readme = "README.md"
 edition = "2018"
